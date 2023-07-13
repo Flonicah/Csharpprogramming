@@ -1,0 +1,15 @@
+D:\C#Projects\Testprojets\bin\Debug\net6.0\Testprojets.exe
+D:\C#Projects\Testprojets\bin\Debug\net6.0\Testprojets.deps.json
+D:\C#Projects\Testprojets\bin\Debug\net6.0\Testprojets.runtimeconfig.json
+D:\C#Projects\Testprojets\bin\Debug\net6.0\Testprojets.dll
+D:\C#Projects\Testprojets\bin\Debug\net6.0\Testprojets.pdb
+D:\C#Projects\Testprojets\obj\Debug\net6.0\Testprojets.csproj.AssemblyReference.cache
+D:\C#Projects\Testprojets\obj\Debug\net6.0\Testprojets.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\Testprojets\obj\Debug\net6.0\Testprojets.AssemblyInfoInputs.cache
+D:\C#Projects\Testprojets\obj\Debug\net6.0\Testprojets.AssemblyInfo.cs
+D:\C#Projects\Testprojets\obj\Debug\net6.0\Testprojets.csproj.CoreCompileInputs.cache
+D:\C#Projects\Testprojets\obj\Debug\net6.0\Testprojets.dll
+D:\C#Projects\Testprojets\obj\Debug\net6.0\refint\Testprojets.dll
+D:\C#Projects\Testprojets\obj\Debug\net6.0\Testprojets.pdb
+D:\C#Projects\Testprojets\obj\Debug\net6.0\Testprojets.genruntimeconfig.cache
+D:\C#Projects\Testprojets\obj\Debug\net6.0\ref\Testprojets.dll
